@@ -7,4 +7,9 @@ This is a bad joke: Bob, John and Mary are all in a plane crash. They are on the
 Bob, John and Mary eventually come to an agreement because they all have needs....
 
 
+branch-with-my-merge
+var fubar = "really cool stuff and stuff and junk";
+fubar + variable = does not work very well. but seriously I'm working on really important stuff right now!.
+
 hola mi llamo ramon y yo so el maestro;
+ master
